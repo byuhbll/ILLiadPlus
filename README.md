@@ -26,7 +26,7 @@ Download jQuery (recommended version: 1.7.1) and reference it in you web pages' 
 
 ## Usage
 
-ILLiadPlus.js is replaces the tables produced by the by ILLiad TABLE tags with more usable and functional HTML. The Javascript reads and stores the content of the tables and then reformats the data into a more helpful design. Essentially, the ILLiad TABLE tags act like an on-page database for Javascript to read and use. Weird, we know, but it works!
+ILLiadPlus.js replaces the tables produced by the by ILLiad TABLE tags with more usable and functional HTML. The Javascript reads and stores the content of the tables and then reformats the data into a more helpful design. Essentially, the ILLiad TABLE tags act like an on-page database for Javascript to read and use. Weird, we know, but it works!
 
 The BYU instance uses ILLiadPlus.js on following ILLiad templates in association with the following TABLE tags:
 
