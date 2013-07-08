@@ -1,4 +1,4 @@
-# ILLiadPlus.js
+# ILLiadPlus
 
 IlliadPlus.js is a Javascript "layer" used in conjuction with jQuery to enhance the main menu of the ILLiad's patron-facing web interace. It converts ILLiad's outstanding, checkout, and electronic delivery tables into more logical categories and provides direct access to edit, view, or cancel requests directly from the main menu. 
 
