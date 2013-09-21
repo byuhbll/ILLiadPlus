@@ -363,11 +363,6 @@ function illplus_requests() {
 						$(this).addClass('highlight');
 					}
 				});
-
-				$("#status a").click(function() {
-					$("#" + statusRequestNumber).ScrollTo();
-					return false;
-				});
 			}
 
 
